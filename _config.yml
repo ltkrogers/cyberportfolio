@@ -1,11 +1,11 @@
 # Site settings
-title: Kit (Lauren) Rogers
+title: Kathryn Rogers
 email: laurentkrogers@gmail.com
 url: https://ltkrogers.github.io/cyberportfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Rogers Kit
+meta_author: Rogers Kathryn
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Kit Rogers
+  copyright: Kathryn Rogers
   location: Location
   social: Around the Web
   credits: Credits
